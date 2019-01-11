@@ -12,5 +12,6 @@ from @hardmath123
 
 Still working on this (google or-tools are a pain to install on conda)
 
+to do also: multithread the search with https://github.com/bfortuner/ml-study/blob/master/multitasking_python.ipynb
 
 You can find an article about this on [my blog](http://benjaminpoilve.com/projects/#)
