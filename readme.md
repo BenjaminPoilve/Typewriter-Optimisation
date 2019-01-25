@@ -10,8 +10,9 @@ from @hardmath123
 | Github | [:link:](https://github.com/BenjaminPoilve/Typewriter-Optimisation/blob/master/main.ipynb)   |
 |  NBviewer |  [:link:](https://nbviewer.jupyter.org/github/BenjaminPoilve/Typewriter-Optimisation/blob/master/main.ipynb) |
 
-Still working on this (google or-tools are a pain to install on conda)
+Using a solver is far too long. Might be possible to craft an algorithme, after looking at the heatmap of the organised letter.
 
-to do also: multithread the search with https://github.com/bfortuner/ml-study/blob/master/multitasking_python.ipynb
+Added function for dumbphone keypad.
+
 
 You can find an article about this on [my blog](http://benjaminpoilve.com/projects/#)
